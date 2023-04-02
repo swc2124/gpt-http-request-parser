@@ -1,5 +1,5 @@
-Chat GPT HTTP Request Parser
-----------------------------
+Chat GPT HTTP Request Parser & Generator
+----------------------------------------
 The following parser and tests were written by chat GPT as a experiment in AI
 paired coding. I slightly massaged the typing and lint, but the functions,
 classes and logic is all from the GPT model.
